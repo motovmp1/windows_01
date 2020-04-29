@@ -42,4 +42,24 @@ git commit -m "(mensagem confirmada)
 git push -u master de origem
 git remote add mestre de origem (url)
 
+git status check se add com sucesso
+
+git push -u origin master
+
+git pull
+
+git --version
+
+ls -la
+
+
+https://www.youtube.com/watch?v=HVsySz-h9r4
+
+git log  sho last commit comments
+
+
+git clone start to work
+
+
+gitt diff show changes
 

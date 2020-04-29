@@ -1,0 +1,45 @@
+C:\Program Files\Git
+
+destino do git no windows
+
+github 
+
+motovmp 1    senha 130277Vcx1977
+
+cd
+pwd
+ls
+cd /c
+
+ls folder git
+no files insider the giter
+
+
+site com commmandos mauis usados no git
+https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/#Verificandoasconfiguraeslocais
+
+
+https://github.com/motovmp1/windows_01.git
+
+nome
+git config --global user.nome "motovmp1"
+
+email
+git config --global user.email "vinicius.mpinho@gmail.com"
+
+git config --list
+
+git clone url do site github
+
+git clone  https://github.com/motovmp1/windows_01.git
+
+
+
+most commands used
+
+git add (nomes de arquivos)
+git commit -m "(mensagem confirmada)
+git push -u master de origem
+git remote add mestre de origem (url)
+
+

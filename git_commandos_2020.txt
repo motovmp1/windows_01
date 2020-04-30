@@ -65,3 +65,5 @@ gitt diff show changes
 
 
 new comments add -- this is a new line that aI want ot add
+
+i add ewm lines to make sure this one will be update

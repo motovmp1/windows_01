@@ -63,3 +63,5 @@ git clone start to work
 
 gitt diff show changes
 
+
+new comments add
